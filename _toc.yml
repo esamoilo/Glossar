@@ -1,0 +1,27 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+parts:
+  - caption: Entwicklungsumgebung
+    chapters:
+      - file: develop/intro
+      - file: develop/git
+      - file: develop/unix
+      - file: develop/python
+      - file: develop/jupyter_book
+      - file: develop/editor
+  - caption: Datentypen und Formatierung
+    chapters:
+      - file: formatting/markdown
+      - file: formatting/notebooks
+      - file: formatting/markdown-notebooks
+      - file: formatting/external_links
+      - file: formatting/images
+      - file: formatting/videos
+  - caption: Assessment
+    chapters:
+      - file: assessment/introduction
+      - file: assessment/jupyterquiz
+      - file: assessment/test-driven_assessment
