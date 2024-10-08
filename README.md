@@ -43,3 +43,4 @@ Contributions are welcome! Fork the repo, make your changes, and submit a pull r
 ---
 
 Thank you for exploring the QUADRIGA Glossar!
+some text
