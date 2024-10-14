@@ -29,6 +29,12 @@ Welcome to the **QUADRIGA Glossar**! This project provides a glossary of key ter
 
 ## Building the Glossar
 
+To clean the glossary:
+
+   ```bash
+   jupyter-book clean .
+   ```
+
 To generate and view the glossary:
 
    ```bash
@@ -43,4 +49,3 @@ Contributions are welcome! Fork the repo, make your changes, and submit a pull r
 ---
 
 Thank you for exploring the QUADRIGA Glossar!
-some text
