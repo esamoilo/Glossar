@@ -1,6 +1,6 @@
-# QUADRIGA Glossar
+# Glossar
 
-Welcome to the **QUADRIGA Glossar**! This project provides a glossary of key terms organized alphabetically, complete with definitions and literature references.
+Welcome to the **Glossar**! This project provides a glossary of key terms organized alphabetically, complete with definitions and literature references.
 
 ## Getting Started
 
